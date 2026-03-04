@@ -6,22 +6,22 @@ const Experience = () => {
         {
             title: 'Frontend Developer',
             company: 'Digital Agency / Freelance',
-            date: 'Jan 2022 - Present',
+            date: 'Jan 2022 - April 2024',
+            responsibilities: [
+                'Assisted in building UI components using HTML5, CSS3, and JavaScript.',
+                'Worked on resolving cross-browser compatibility issues.',
+                'Participated in daily stand-ups and agile development processes.',
+            ]
+        },
+        {
+            title: 'Frontend Developer',
+            company: 'Portstay Technologies',
+            date: 'April 2024 - Present',
             responsibilities: [
                 'Developing responsive, mobile-first websites using React.js and Tailwind CSS.',
                 'Optimizing website performance and implementing On-page SEO strategies.',
                 'Deploying and hosting websites on modern cloud platforms (Vercel, Netlify).',
                 'Collaborating with designers to translate UI/UX wireframes into functional code.'
-            ]
-        },
-        {
-            title: 'Web Developer Intern',
-            company: 'Tech Solutions Inc.',
-            date: 'Jun 2021 - Dec 2021',
-            responsibilities: [
-                'Assisted in building UI components using HTML5, CSS3, and JavaScript.',
-                'Worked on resolving cross-browser compatibility issues.',
-                'Participated in daily stand-ups and agile development processes.'
             ]
         }
     ];

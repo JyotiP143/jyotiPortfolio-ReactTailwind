@@ -7,8 +7,8 @@ const Projects = () => {
             title: 'E-commerce Website',
             description: 'A fully functional modern e-commerce platform with responsive UI, product listing, and a seamless cart experience.',
             tech: ['React.js', 'Context API', 'Tailwind CSS'],
-            liveLink: '#',
-            githubLink: '#',
+            liveLink: 'https://ecommerce-react-tailwind-website-2bqoi6jdf.vercel.app/',
+            githubLink: 'https://github.com/JyotiP143/ecommerce-ReactTailwindWebsite',
             color: 'from-blue-500 to-cyan-400'
         },
         {
@@ -23,8 +23,8 @@ const Projects = () => {
             title: 'Portfolio UI Project',
             description: 'A modern UI/UX design implementation featuring animated components, complex layouts, and premium aesthetics.',
             tech: ['React.js', 'Tailwind CSS', 'Framer Motion'],
-            liveLink: '#',
-            githubLink: '#',
+            liveLink: 'https://jyoti-portfolio-react-tailwind-898gdkpgc.vercel.app/',
+            githubLink: 'https://github.com/JyotiP143/jyotiPortfolio-ReactTailwind',
             color: 'from-emerald-400 to-teal-500'
         },
         {
