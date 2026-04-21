@@ -15,7 +15,7 @@ const Projects = () => {
             title: 'Evoxcel Website',
             description: 'A complete business website built for a digital agency. Highly SEO optimized and responsive across all devices.',
             tech: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-            liveLink: '#',
+            liveLink: 'https://www.evoxcel.com/',
             githubLink: '#',
             color: 'from-purple-500 to-pink-500'
         },
@@ -30,9 +30,9 @@ const Projects = () => {
         {
             title: 'Landing Page Project',
             description: 'A high-converting landing page designed for SEO optimization, combining multiple CSS frameworks for best results.',
-            tech: ['HTML5', 'Bootstrap', 'Tailwind CSS'],
-            liveLink: '#',
-            githubLink: '#',
+            tech: ['HTML5', 'Bootstrap'],
+            liveLink: 'https://responsive-landing-page-html-css-bootstrap-19qlww9jy.vercel.app/',
+            githubLink: 'https://github.com/JyotiP143/responsive-landing-page-html-css-bootstrap',
             color: 'from-orange-500 to-amber-500'
         }
     ];
